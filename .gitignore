@@ -3,3 +3,6 @@
 ################################################################################
 
 *.suo
+/.vs/WindowsFormsApp3/v16/Server/sqlite3
+/.vs
+/WindowsFormsApp3/obj/Debug
